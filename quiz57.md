@@ -32,7 +32,7 @@ print(m.get_duration(duration = r.duration,destination=r.destination))
 
 print(r.get_duration(duration = m.duration,destination=m.destination))
 ```
-**proof of work**　　. 　 ˚　.　　　　　 . ✦　　　 　˚　　　　 . ★⋆. ࿐࿔ 
+**question**　　. 　 ˚　.　　　　　 . ✦　　　 　˚　　　　 . ★⋆. ࿐࿔ 
 　　　.   　　˚　　 　　*　　 　　✦　　　.　　.　　　✦　˚ 　　　　 ˚　.˚　　　　✦
-
-![](https://github.com/marinamen/unit3/blob/main/images/Screenshot%202024-02-19%20at%2008.38.22.png)
+### How many different colors can be represented in a computer with a 9-bit processor?
+R\\ A 9-bit processor can represent 2^9 = 512 different colors. 
