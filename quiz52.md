@@ -1,36 +1,47 @@
 
-**QUIZ 050** 
+**QUIZ 052** 
 
 ✦　　　.　　. 　 ˚　.　　　　　 . ✦　　　 　˚　　　　 . ★⋆. ࿐࿔ 
 
-50. Create a class for a flight:
+52. Create a Bicycle class with a Wheel class as its attribute using composition. 🚲
 
 
 　　　.   　　˚　　 　　*　　 　　✦　　　.　　.　　　✦　˚ 　　　　 ˚　.˚　　　　✦
 **python code**
 
 ```.py
-class flight():
-    def __init__(self, flight_number, origin, destination, departure_time, duration):
-        self.flight = flight_number
-        self.origin = origin
-        self.destination = destination
-        self.duration = duration
-        self.departure_time = departure_time
+
+class wheel:
+    def __init__(self, wsize):
+        self.wsize = wsize
+
+    def get_size(self):
+        return f"the wheel size is {self.wsize}"
+
+    def get_perimeter(self):
+        calc1=self.wsize * 3.14 * 0.0254
+        return f" the wheel perimeter is {calc1} meters"
+
+    def get_km(self,):
+        calc2 = (self.wsize *  0.0254)*3.14 *2  / 1000
+        return f"{calc2} km per rotation"
 
 
-    def get_duration(self, duration,destination):
-        hours = duration[0]
-        minutes = duration[1]
-        seconds = duration[2]
-        return f"{hours} hours {minutes} minutes {seconds} seconds remaining for {destination}"
+class bicycle:
+    def __init__(self, wsize, material):
+        self.wheel = wheel(wsize)
+        self.material = material
 
-m = flight(flight_number = "CA908", origin = "Madrid", destination = "Beijing International Airport", departure_time = "11.30 AM",duration = [10, 57, 12])
-r= flight(flight_number = "IB64", origin = "Madrid", destination = "Bilbao Aireportuak", departure_time = "8.30 AM",duration = [1, 40, 35])
+    def ride(self):
+        return f" the wheel size is {self.wheel.wsize} inches & the material of the frame is {self.material}"
 
-print(m.get_duration(duration = r.duration,destination=r.destination))
 
-print(r.get_duration(duration = m.duration,destination=m.destination))
+x=bicycle(wsize=26,material="aluminium")
+print(x.ride())
+
+y = wheel(wsize = 26)
+print(y.get_km())
+
 ```
 **proof of work**　　. 　 ˚　.　　　　　 . ✦　　　 　˚　　　　 . ★⋆. ࿐࿔ 
 　　　.   　　˚　　 　　*　　 　　✦　　　.　　.　　　✦　˚ 　　　　 ˚　.˚　　　　✦
