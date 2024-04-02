@@ -47,3 +47,8 @@ print(y.get_km())
 　　　.   　　˚　　 　　*　　 　　✦　　　.　　.　　　✦　˚ 　　　　 ˚　.˚　　　　✦
 
 ![](https://github.com/marinamen/unit4/blob/main/images/Screenshot%202024-04-02%20at%2022.48.02.png)
+
+**proof of work**　　. 　 ˚　.　　　　　 . ✦　　　 　˚　　　　 . ★⋆. ࿐࿔ 
+　　　.   　　˚　　 　　*　　 　　✦　　　.　　.　　　✦　˚ 　　　　 ˚　.˚　　　　✦
+
+![](https://github.com/marinamen/unit4/blob/main/images/Untitled%20(11).jpg)
