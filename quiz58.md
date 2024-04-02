@@ -2,11 +2,13 @@
 **QUIZ 058** 
 
 ✦　　　.　　. 　 ˚　.　　　　　 . ✦　　　 　˚　　　　 . ★⋆. ࿐࿔ 
-58.
 
+58
 
 
 　　　.   　　˚　　 　　*　　 　　✦　　　.　　.　　　✦　˚ 　　　　 ˚　.˚　　　　✦
+
+   
 **① Describe the role of the ROM memory in a computer.**
 
 ![]()
