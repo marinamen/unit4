@@ -28,3 +28,10 @@ print(text.pour(n=3))
 　　　.   　　˚　　 　　*　　 　　✦　　　.　　.　　　✦　˚ 　　　　 ˚　.˚　　　　✦
 
 ![](https://github.com/marinamen/unit4/blob/main/images/Screenshot%202024-04-02%20at%2022.48.28.png)
+
+**uml diagram**　　. 　 ˚　.　　　　　 . ✦　　　 　˚　　　　 . ★⋆. ࿐࿔ 
+　　　.   　　˚　　 　　*　　 　　✦　　　.　　.　　　✦　˚ 　　　　 ˚　.˚　　　　✦
+
+![](https://github.com/marinamen/unit4/blob/main/images/Untitled%20(13).jpg)
+
+I meant to put rainDrop
