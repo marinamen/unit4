@@ -37,3 +37,9 @@ print(flight.get_flight_info())
 　　　.   　　˚　　 　　*　　 　　✦　　　.　　.　　　✦　˚ 　　　　 ˚　.˚　　　　✦
 
 ![](https://github.com/marinamen/unit4/blob/main/images/Screenshot%202024-04-02%20at%2022.46.48.png)
+
+**uml diagram**　　. 　 ˚　.　　　　　 . ✦　　　 　˚　　　　 . ★⋆. ࿐࿔ 
+　　　.   　　˚　　 　　*　　 　　✦　　　.　　.　　　✦　˚ 　　　　 ˚　.˚　　　　✦
+
+![](https://github.com/marinamen/unit4/blob/main/images/Untitled%20(10).jpg)
+
