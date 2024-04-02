@@ -53,3 +53,10 @@ print(f.create_handshake())
 　　　.   　　˚　　 　　*　　 　　✦　　　.　　.　　　✦　˚ 　　　　 ˚　.˚　　　　✦
 
 ![](https://github.com/marinamen/unit4/blob/main/images/Screenshot%202024-04-02%20at%2022.53.00.png)
+
+
+**uml diagram**　　. 　 ˚　.　　　　　 . ✦　　　 　˚　　　　 . ★⋆. ࿐࿔ 
+　　　.   　　˚　　 　　*　　 　　✦　　　.　　.　　　✦　˚ 　　　　 ˚　.˚　　　　✦
+   
+
+![](https://github.com/marinamen/unit4/blob/main/images/Untitled%20(15).jpg)
