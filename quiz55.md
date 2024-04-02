@@ -36,3 +36,11 @@ print(Darts.score_of(7, 8))
 　　　.   　　˚　　 　　*　　 　　✦　　　.　　.　　　✦　˚ 　　　　 ˚　.˚　　　　✦
 
 ![](https://github.com/marinamen/unit4/blob/main/images/Screenshot%202024-04-02%20at%2023.00.57.png)
+
+
+**proof of work**　　. 　 ˚　.　　　　　 . ✦　　　 　˚　　　　 . ★⋆. ࿐࿔ 
+　　　.   　　˚　　 　　*　　 　　✦　　　.　　.　　　✦　˚ 　　　　 ˚　.˚　　　　✦
+   i meant to put darts
+   
+![](https://github.com/marinamen/unit4/blob/main/images/Untitled%20(14).jpg)
+
