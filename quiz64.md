@@ -1,25 +1,22 @@
 
-**QUIZ 059** 
+**QUIZ 064** 
 
 ✦　　　.　　. 　 ˚　.　　　　　 . ✦　　　 　˚　　　　 . ★⋆. ࿐࿔ 
 
-59.
-
+64. Website developers need to consider a range of usability factors when designing a website.
 
 　　　.   　　˚　　 　　*　　 　　✦　　　.　　.　　　✦　˚ 　　　　 ˚　.˚　　　　✦
 
    
-**① Outline the need for a translation process from high level language to machine code.**
+**①　Identify two usability factors that need to be considered in the design of a website.**
 
 
-Computers are only able to read low level language, machine code, they are incapable of understanding complex language.
+Is it accesible for all different types of users, is the UI easy for elderly people to use, time taken to complete tasks..etc
+
+**②　Outline one reason why visual displays on a computer screen can create difficulties for some people.**　
 
 
-**② State two compatibility issues that may arise when international businesses merge.**　
-
-
-Database structure may be different/incopatible, lexical issues within the websites or how they operate, format differences within databases eg: date format
-
+Some people with Epilepsia may be sensible to flashing lights and bright colours, or people who have slow network connection.
 
 　. 　 ˚　.　　　　　 . ✦　　　 　˚　　　　 . ★⋆. ࿐࿔ 
 　　　.   　　˚　　 　　*　　 　　✦　　　.　　.　　　✦　˚ 　　　　 ˚　.˚　　　　✦
