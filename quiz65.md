@@ -3,23 +3,13 @@
 
 ✦　　　.　　. 　 ˚　.　　　　　 . ✦　　　 　˚　　　　 . ★⋆. ࿐࿔ 
 
-59.
+65. Trace the following fragment, for N=139 and L=3, 
+
 
 
 　　　.   　　˚　　 　　*　　 　　✦　　　.　　.　　　✦　˚ 　　　　 ˚　.˚　　　　✦
 
-   
-**① Outline the need for a translation process from high level language to machine code.**
-
-
-Computers are only able to read low level language, machine code, they are incapable of understanding complex language.
-
-
-**② State two compatibility issues that may arise when international businesses merge.**　
-
-
-Database structure may be different/incopatible, lexical issues within the websites or how they operate, format differences within databases eg: date format
-
+![](https://github.com/marinamen/unit4/blob/main/images/IMG_0089.jpg)
 
 　. 　 ˚　.　　　　　 . ✦　　　 　˚　　　　 . ★⋆. ࿐࿔ 
 　　　.   　　˚　　 　　*　　 　　✦　　　.　　.　　　✦　˚ 　　　　 ˚　.˚　　　　✦
