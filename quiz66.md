@@ -1,25 +1,13 @@
 
-**QUIZ 059** 
+**QUIZ 066** 
 
 ✦　　　.　　. 　 ˚　.　　　　　 . ✦　　　 　˚　　　　 . ★⋆. ࿐࿔ 
 
-59.
-
+66. By copying the table below, trace the following algorithm using the data in the collection DATA. Note: B and C are also collections and are initially empty.
 
 　　　.   　　˚　　 　　*　　 　　✦　　　.　　.　　　✦　˚ 　　　　 ˚　.˚　　　　✦
 
-   
-**① Outline the need for a translation process from high level language to machine code.**
-
-
-Computers are only able to read low level language, machine code, they are incapable of understanding complex language.
-
-
-**② State two compatibility issues that may arise when international businesses merge.**　
-
-
-Database structure may be different/incopatible, lexical issues within the websites or how they operate, format differences within databases eg: date format
-
+ ![](https://github.com/marinamen/unit4/blob/main/images/IMG_0091%202.jpg)
 
 　. 　 ˚　.　　　　　 . ✦　　　 　˚　　　　 . ★⋆. ࿐࿔ 
 　　　.   　　˚　　 　　*　　 　　✦　　　.　　.　　　✦　˚ 　　　　 ˚　.˚　　　　✦
