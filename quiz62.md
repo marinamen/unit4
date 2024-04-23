@@ -3,22 +3,22 @@
 
 ✦　　　.　　. 　 ˚　.　　　　　 . ✦　　　 　˚　　　　 . ★⋆. ࿐࿔ 
 
-59.
+62. A business’s computer system needs to be updated.
 
 
 　　　.   　　˚　　 　　*　　 　　✦　　　.　　.　　　✦　˚ 　　　　 ˚　.˚　　　　✦
 
+
    
-**① Outline the need for a translation process from high level language to machine code.**
+**① Outline one consequence of not including all stakeholders in the design of the new system.**
 
 
-Computers are only able to read low level language, machine code, they are incapable of understanding complex language.
+Stakeholders may be unsatisfied with final result.
 
+**② Outline one reason testing should take place at every stage of the development process.**　
 
-**② State two compatibility issues that may arise when international businesses merge.**　
+In order for errors and bugs within the program to be fixed before they all become too many to handle.
 
-
-Database structure may be different/incopatible, lexical issues within the websites or how they operate, format differences within databases eg: date format
 
 
 　. 　 ˚　.　　　　　 . ✦　　　 　˚　　　　 . ★⋆. ࿐࿔ 
